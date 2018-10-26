@@ -12,6 +12,10 @@ footer {
     width: 100%;
     background-color: #003826;
 }
+.col-md-6 {
+    position: relative;
+    left: 25%;
+}
 .navbar-brand {
     font-family: 'Passion One', cursive;
     /* font-weight: bold; */
